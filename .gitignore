@@ -1,0 +1,13 @@
+*.exe 
+*.o 
+*.obj 
+*.dll 
+Debug/ 
+Release/ 
+bin/ 
+build/ 
+.DS_Store 
+*.user 
+*.suo 
+.vs/ 
+.vscode/ 
