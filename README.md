@@ -22,7 +22,7 @@ The game features **10 progressive levels**, **matching mechanics**, **score tra
 
 ---
 
-## 🕹️ How to Play
+##  How to Play
 
 1. **Aim** – Move your mouse to aim the shooter
 2. **Shoot** – Click to shoot the bubble
@@ -34,7 +34,7 @@ The game features **10 progressive levels**, **matching mechanics**, **score tra
 
 ---
 
-## 🎯 Bubble Exchange System
+##  Bubble Exchange System
 
 | Feature | Description |
 |---------|-------------|
@@ -46,7 +46,7 @@ The game features **10 progressive levels**, **matching mechanics**, **score tra
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 | Requirement | Version |
 |-------------|---------|
@@ -70,25 +70,18 @@ The game features **10 progressive levels**, **matching mechanics**, **score tra
 
 ### Option 2: Using Command Line
 
-```bash
-qmake bubble-shooter.pro
-make
-./bubble-shooter
-
 ## 👩‍💻 Project By
 
 **Aayesha**
 
-🎓 Student | Developer  
-📧 Email: aayesha@example.com  
-🔗 GitHub: [Aayesha-dev](https://github.com/Aayesha-dev)  
-📅 Project Date: 2024-2025  
+- 🎓 Student 
+- 📧 Email: Ayesha.Shahid.dev@gmail.com
+- 🔗 GitHub: [Aayesha-dev](https://github.com/Aayesha-dev)
+- 📅 Project Date: 2025-2026
 
-### 🙏 Acknowledgements
-
+###  Acknowledgements
 Special thanks to my instructors and peers for their support and guidance.
 
 Built with ❤️ using C++, OpenGL, and Qt.
 
-## 📁 Project Structure
-
+```bash
